@@ -18,7 +18,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Howdy").foregroundColor(.red)
+            Text("Howdy").foregroundColor(<#T##color: Color?##Color?#>)
         }
     }
 }
